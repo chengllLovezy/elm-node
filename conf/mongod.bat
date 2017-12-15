@@ -1,0 +1,1 @@
+mongod --dbpath H:\webStudy\vue\project\elm-node\db --port 27017
